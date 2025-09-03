@@ -1,0 +1,10 @@
+streamlit
+gTTS
+pdfplumber
+python-docx
+pydub
+
+Recommended :
+openai          # if you switch to OpenAI TTS
+fastapi         # if you make a backend API
+uvicorn         # to run FastAPI server
